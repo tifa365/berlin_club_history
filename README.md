@@ -1,4 +1,4 @@
-# Berlin Historic Clubs Dataset
+# Berlin Club History Dataset
 
 A curated dataset of 106 closed/historic nightclubs and music venues in Berlin, documenting the city's legendary club culture from the late 1960s through 2020.
 
@@ -6,8 +6,8 @@ A curated dataset of 106 closed/historic nightclubs and music venues in Berlin, 
 
 This repository contains location and contextual data for historic Berlin clubs in two formats:
 
-- **berlin_historic_clubs.csv** (26KB) - Spreadsheet format with all fields
-- **berlin_historic_clubs.geojson** (59KB) - GeoJSON format for mapping applications
+- **berlin_club_history.csv** (26KB) - Spreadsheet format with all fields
+- **berlin_club_history.geojson** (59KB) - GeoJSON format for mapping applications
 
 ## Data Fields
 
@@ -103,13 +103,13 @@ Coordinate format: `[longitude, latitude]` (GeoJSON standard)
 **Load in Python (pandas):**
 ```python
 import pandas as pd
-df = pd.read_csv('berlin_historic_clubs.csv')
+df = pd.read_csv('berlin_club_history.csv')
 print(f"Total clubs: {len(df)}")
 ```
 
 **Load GeoJSON in JavaScript:**
 ```javascript
-fetch('berlin_historic_clubs.geojson')
+fetch('berlin_club_history.geojson')
   .then(response => response.json())
   .then(data => {
     // Add to Mapbox/Leaflet map
