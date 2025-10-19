@@ -1,0 +1,1913 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40029,
+          52.531165
+        ]
+      },
+      "properties": {
+        "name": "Club ZMF",
+        "Music": "house, electro, techno, indie/britpop",
+        "Category": "Mitte",
+        "years": "2002–2013",
+        "description": "Low‑ceilinged basement ‘Zur Möbelfabrik’ near Rosenthaler Platz; raw post‑reunification vibe.",
+        "address": "Brunnenstraße 10, 10119 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402256,
+          52.528636
+        ]
+      },
+      "properties": {
+        "name": "Eimer Club - „Kulturhaus I.M. Eimer“",
+        "Music": "punk/alternative, experimental, performance art, early techno",
+        "Category": "Mitte",
+        "years": "1990–2003",
+        "description": "Legendary squat venue at Rosenthaler Straße that became a crucible for Berlin’s post‑wall art, noise and club culture.",
+        "address": "Rosenthaler Straße 68, 10119 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43264,
+          52.509068
+        ]
+      },
+      "properties": {
+        "name": "Maria am Ostbahnhof",
+        "Music": "techno, house, drum & bass, breakbeat",
+        "Category": "Friedrichshain",
+        "years": "late 1990s–2010 (closed)",
+        "description": "Riverside club by Ostbahnhof known for big international bookings and DnB/techno nights; successor to Maria am Ufer.",
+        "address": "Stralauer Platz 29 (later Schillingbrücke 1), 10243 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400112796295332,
+          52.530561785947214
+        ]
+      },
+      "properties": {
+        "name": "Boudoir",
+        "Music": "art/performance salon; eclectic music",
+        "Category": "Mitte",
+        "years": "1992–1995",
+        "description": "Lena Braun’s legendary walk‑in art installation and salon space in a former soap factory.",
+        "address": "Brunnenstraße 192, 10119 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36984,
+          52.49903
+        ]
+      },
+      "properties": {
+        "name": "90 Grad",
+        "Music": "house, disco, pop",
+        "Category": "Tiergarten/Schöneberg (City West)",
+        "years": "1989–2008",
+        "description": "Stylish West‑Berlin/City‑West nightspot and Love‑Parade after‑party fixture at Gleisdreieck.",
+        "address": "Dennewitzstraße 37, 10785 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.383741027390325,
+          52.523600091004326
+        ]
+      },
+      "properties": {
+        "name": "Bunker",
+        "Music": "hardcore/gabber, techno; fetish/afterhours",
+        "Category": "Mitte",
+        "years": "1992–1997",
+        "description": "Infamous multi‑floor techno bunker (Reinhardtstraße/Albrechtstraße); later converted to the Boros art collection.",
+        "address": "Reinhardtstraße 20 (corner Albrechtstraße), 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388139474263413,
+          52.50933644777084
+        ]
+      },
+      "properties": {
+        "name": "E-Werk",
+        "Music": "techno, trance, house",
+        "Category": "Mitte",
+        "years": "1993–1997",
+        "description": "Influential 90s techno club in a listed 1920s substation near Checkpoint Charlie; Friday ‘Dubmission’ nights with Paul van Dyk.",
+        "address": "Wilhelmstraße 43, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.457459732333493,
+          52.47457932739549
+        ]
+      },
+      "properties": {
+        "name": "Griessmühle",
+        "Music": "techno, house",
+        "Category": "Neukölln",
+        "years": "2012–2020",
+        "description": "Cult DIY club in a former pasta factory next to the canal; evicted in 2020 amid redevelopment.",
+        "address": "Sonnenallee 221, 12059 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424251852341797,
+          52.51123553911469
+        ]
+      },
+      "properties": {
+        "name": "Kater Holzig",
+        "Music": "house, techno, disco",
+        "Category": "Mitte",
+        "years": "2011–2013",
+        "description": "Follow‑up to Bar25 on the Spree; wild riverside complex that bridged to the later Holzmarkt/Kater Blau era.",
+        "address": "Michaelkirchstraße 23, 10179 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3646,
+          52.49198
+        ]
+      },
+      "properties": {
+        "name": "SchwuZ",
+        "Music": "pop, indie, electro, queer classics",
+        "Category": "Neukölln",
+        "years": "1977–present (at Rollbergstraße since 2013)",
+        "description": "Germany’s oldest queer club and major cultural institution; multi‑floor LGBTQIA+ parties and shows.",
+        "address": "Rollbergstraße 26, 12053 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.471377,
+          52.518022
+        ]
+      },
+      "properties": {
+        "name": "K17 / Nuke Club",
+        "Music": "goth, EBM, metal, industrial",
+        "Category": "Friedrichshain",
+        "years": "K17: 2001–2012; Nuke Club: 2016–present",
+        "description": "Long‑running dark‑scene venue: K17’s townhouse labyrinth evolved into today’s NUKE Club nearby.",
+        "address": "K17: Pettenkoferstraße 17a; NUKE: Pettenkoferstraße 17a/16, 10247 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42574332458339,
+          52.53038307087564
+        ]
+      },
+      "properties": {
+        "name": "Knaack",
+        "Music": "rock, indie, punk; later concerts across genres",
+        "Category": "Prenzlauer Berg",
+        "years": "1952–2010",
+        "description": "Historic youth/rock club of the GDR and 1990s; closed after noise disputes but slated for a new cultural house.",
+        "address": "Greifswalder Straße 224, 10405 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424625412332261,
+          52.510943852272504
+        ]
+      },
+      "properties": {
+        "name": "Planet",
+        "Music": "house, techno, breakbeat",
+        "Category": "Mitte",
+        "years": "1991–1993",
+        "description": "Short‑lived but pivotal early‑90s club (two locations) whose crew later helped found E‑Werk.",
+        "address": "Köpenicker Straße area (two locations), 10179 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44008,
+          52.50224
+        ]
+      },
+      "properties": {
+        "name": "UFO",
+        "Music": "acid house, early techno",
+        "Category": "Kreuzberg",
+        "years": "1988–1990",
+        "description": "First acid house club in Berlin; tiny basement on Köpenicker Str. before moving to Großgörschenstraße (Ufo 2).",
+        "address": "Köpenicker Straße 6, 10997 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387701617284284,
+          52.51036651926215
+        ]
+      },
+      "properties": {
+        "name": "WMF",
+        "Music": "house, techno, hip‑hop (early), drum’n’bass",
+        "Category": "Mitte",
+        "years": "1991–2010 (across several locations)",
+        "description": "Nomadic club brand that moved through eight locations; central to 90s/00s Berlin club culture.",
+        "address": "Multiple (e.g., Leipziger Str. 112; Burgstr. 28; Johannisstr. 20; Ziegelstr. 22; Karl‑Marx‑Allee 34; Littenstr. 109; Klosterstr. 44)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42709737199965,
+          52.51091751882973
+        ]
+      },
+      "properties": {
+        "name": "Bar 25",
+        "Music": "minimal/house, techno",
+        "Category": "Friedrichshain",
+        "years": "2003–2010",
+        "description": "Open‑air club on the Spree famed for marathon after‑hours and a bohemian village vibe.",
+        "address": "Holzmarktstraße (riverside, near Ostbahnhof), 10243 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.338202,
+          52.502067
+        ]
+      },
+      "properties": {
+        "name": "Dschungel",
+        "Music": "disco, new wave, pop",
+        "Category": "Schöneberg (West‑Berlin)",
+        "years": "1978–1993",
+        "description": "West‑Berlin’s Studio‑54‑style icon; celebrity magnet that defined the late‑70s/80s scene.",
+        "address": "Nürnberger Straße 53 (50–55 complex), 10789 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.405127,
+          52.512976
+        ]
+      },
+      "properties": {
+        "name": "Exit",
+        "Music": "Techno, happy hardcore, breakbeat; after‑hours",
+        "Category": "Mitte",
+        "years": "1993 – 1995",
+        "description": "Club inside the former GDR 'Ahornblatt' (Fischerinsel); run by DJ Tanith & crew; closed mid‑’90s, building later demolished (2000).",
+        "address": "Fischerinsel 12 (Ahornblatt), 10179 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421157080924582,
+          52.48753031127577
+        ]
+      },
+      "properties": {
+        "name": "Cheetah",
+        "Music": "disco, funk, soul (West‑Berlin era)",
+        "Category": "Neukölln (West‑Berlin)",
+        "years": "1968–1981",
+        "description": "Late‑60s/70s disco on Hasenheide; a classic of West‑Berlin nightlife.",
+        "address": "Hasenheide 13, 10967 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.315332516879076,
+          52.50604698169752
+        ]
+      },
+      "properties": {
+        "name": "Abraxas",
+        "Music": "funk, soul, R’n’B, Latin, jazz",
+        "Category": "Charlottenburg (West‑Berlin)",
+        "years": "1983–2009",
+        "description": "Beloved Kantstraße institution for funk/soul with devoted regulars; lives on as travelling ‘Abraxasparty’.",
+        "address": "Kantstraße 134, 10625 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342500904087311,
+          52.49904029875379
+        ]
+      },
+      "properties": {
+        "name": "Chez Romy Haag",
+        "Music": "Cabaret, disco, pop",
+        "Category": "Schöneberg",
+        "years": "1974 – 1983",
+        "description": "The iconic club of performer Romy Haag; a 1970s/early‑80s hotspot in West‑Berlin nightlife and LGBTQ culture.",
+        "address": "Fuggerstraße 33 (Ecke Welserstraße), 10777 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397376567522702,
+          52.527016096749975
+        ]
+      },
+      "properties": {
+        "name": "Cookies",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Mitte",
+        "years": "1994 – 1996",
+        "description": "Cookies #1 — the original after‑hours phenomenon in Mitte; started at Auguststraße 26b.",
+        "address": "Auguststraße 26b, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.382740878447157,
+          52.51010784680455
+        ]
+      },
+      "properties": {
+        "name": "Tresor",
+        "address": "Leipziger Straße 126a (1991–2005) / Köpenicker Straße 70 (seit 2007), Berlin",
+        "Category": "Mitte",
+        "Music": "Techno, Detroit Techno, Industrial; global prägend",
+        "years": "1991–2005 / 2007–",
+        "description": "Ikonischer Technoclub: zuerst im Tresor‑Gewölbe des ehemaligen Wertheim‑Kaufhauses (Leipziger Straße), seit 2007 im Heizkraftwerk an der Köpenicker Straße."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416763342268748,
+          52.5111770982315
+        ]
+      },
+      "properties": {
+        "name": "Walfisch",
+        "Music": "techno, after‑hour",
+        "Category": "Mitte",
+        "years": "1991–1993",
+        "description": "Seminal after‑hours in the above‑ground rooms of U‑Bhf. Heinrich‑Heine‑Straße; later home to Sage/KitKat.",
+        "address": "Köpenicker Straße 76, 10179 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466817,
+          52.516221
+        ]
+      },
+      "properties": {
+        "name": "Antje Øklesund",
+        "Music": "Concerts, experimental music, free art scene",
+        "Category": "Friedrichshain",
+        "years": "c. 2007 – 2016",
+        "description": "Artist-run project space/venue in the 'Sama-Riga' industrial block; hosted experimental concerts, performances and leftfield club nights; the site at Rigaer Straße 71–73 was cleared/demolished by 2016 for new development.",
+        "address": "Rigaer Straße 71–73, 10247 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352224,
+          52.499412
+        ]
+      },
+      "properties": {
+        "name": "Café Swing",
+        "Music": "Avant‑garde, new wave, rock, indie; later songwriter nights",
+        "Category": "Schöneberg",
+        "years": "1982 – 2002",
+        "description": "Cult West‑Berlin bar/club at Nollendorfplatz known for subcultural gigs, arty nights and mixed queer-friendly crowds through the 80s/90s.",
+        "address": "Nollendorfplatz 3–4, 10777 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4033008,
+          52.5266186
+        ]
+      },
+      "properties": {
+        "name": "Galerie berlintokyo",
+        "Music": "Kunst/Club-Hybrid; Experimental, Indie/Electro",
+        "Category": "Mitte",
+        "years": "1996 – 1999",
+        "description": "Galerie‑ und Party‑Ort der 90er; Ausstellungen, Konzerte & DJ‑Nights, prägend für die Off‑Szene rund um Rosenthaler Straße.",
+        "address": "Rosenthaler Straße, 10119 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.337456,
+          52.505351
+        ]
+      },
+      "properties": {
+        "name": "Linientreu",
+        "Music": "Techno; 80er/Wave; Themen‑Partys (z. B. Depeche Mode)",
+        "Category": "Charlottenburg",
+        "years": "ca. 1985 – 2008",
+        "description": "Tanz‑Arena im Bikini‑Haus nahe Zoo; prägte 80er/90er‑Nachtleben mit Techno‑ und 80er‑Partys.",
+        "address": "Budapester Straße 42, 10787 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.480801236767604,
+          52.48674561564232
+        ]
+      },
+      "properties": {
+        "name": "Kreisjugendklub Pablo Neruda",
+        "Music": "Indie/Alternative; Jugend‑Disco & Konzerte",
+        "Category": "Treptow",
+        "years": "späte 1980er – frühe 1990er",
+        "description": "DDR‑Jugendklub auf der Insel der Jugend; frühe Nachwende‑Indie‑/Alternativ‑Partys und Konzerte.",
+        "address": "Insel der Jugend, Alt‑Treptow 6, 12435 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.439504,
+          52.505522
+        ]
+      },
+      "properties": {
+        "name": "Ostgut / Panoramabar",
+        "address": "Am Wriezener Bahnhof (Ostbahnhofhalle), 10243 Berlin",
+        "Category": "Friedrichshain",
+        "Music": "Techno (Ostgut), House (Panoramabar); queer/fetisch‑geprägt",
+        "years": "1998–2003",
+        "description": "Vorläufer des Berghain in der Güterhalle am Ostbahnhof: Ostgut (Techno) und die kleinere Panoramabar (House). 2003 Schließung der Halle."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.398478,
+          52.532905
+        ]
+      },
+      "properties": {
+        "name": "King-Kong-Klub",
+        "Music": "Indie/Garage; Electro‑Punk; Singer‑Songwriter; Burlesque",
+        "Category": "Mitte",
+        "years": "2003 – 2014",
+        "description": "Intimer DIY‑Club in der Brunnenstraße; Bühne für Underground‑Konzerte, Burlesque, Lesungen & wilde Partys.",
+        "address": "Brunnenstraße 173, 10119 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352004,
+          52.490113
+        ]
+      },
+      "properties": {
+        "name": "Ex'n'Pop",
+        "Music": "Indie, alternative rock, pop; live shows & DJ nights",
+        "Category": "Schöneberg",
+        "years": "1984 – 2016",
+        "description": "Beloved West‑Berlin alternative club; from 1986 at Mansteinstraße 14; mixed gigs and indie/alternative DJ culture; closed 2016.",
+        "address": "Mansteinstraße 14, 10783 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351235,
+          52.498957
+        ]
+      },
+      "properties": {
+        "name": "Krik",
+        "Music": "Underground/Experimental; frühe Techno/Indie‑Nights",
+        "Category": "Tiergarten",
+        "years": "ca. 1989 – 1991",
+        "description": "Kurzlebige Off‑Location der Wendezeit (genaue Details schwer belegbar).",
+        "address": "Tiergarten (genaue Adresse unbekannt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367816,
+          52.492976
+        ]
+      },
+      "properties": {
+        "name": "Risiko",
+        "address": "Yorckstraße 48, 10965 Berlin",
+        "Category": "Schöneberg",
+        "Music": "Punk, No Wave, Post‑Punk; Underground‑Bar der 1980er",
+        "years": "1981–1986",
+        "description": "Legendäre West‑Berliner Punk/Underground‑Bar an der Yorckstraße; Treff von Nick Cave‑/Neubauten‑Umfeld und Künstler*innen der 80er."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.473139,
+          52.501292
+        ]
+      },
+      "properties": {
+        "name": "Rummels Bucht",
+        "address": "Hauptstraße 1, 10317 Berlin (Rummelsburger Bucht)",
+        "Category": "Lichtenberg",
+        "Music": "House, Techno; Open‑Air & Kulturstrand",
+        "years": "2013–2021",
+        "description": "Open‑Air‑Ort an der Rummelsburger Bucht mit Clubnächten, Konzerten und Kulturprogramm; 2021 geräumt/geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352856,
+          52.499041
+        ]
+      },
+      "properties": {
+        "name": "Loft",
+        "Music": "New Wave; Post‑Punk; Alternative",
+        "Category": "Charlottenburg",
+        "years": "ca. 1983 – 1987",
+        "description": "West‑Berliner Kultclub im Neuen Schauspielhaus‑Komplex unweit Wittenbergplatz.",
+        "address": "Nürnberger Straße 53, 10789 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.364479,
+          52.502136
+        ]
+      },
+      "properties": {
+        "name": "Quarter Latin",
+        "address": "Potsdamer Straße 96, 10785 Berlin",
+        "Category": "Tiergarten/Schöneberg",
+        "Music": "Rock, New Wave, Jazz‑Rock; große Live‑Konzerte",
+        "years": "1970–1989",
+        "description": "Berühmtes Konzert‑ und Szenehaus der 70er/80er an der Potsdamer Straße; wichtiger Ort für Rock/New‑Wave‑Konzerte bis zur Schließung 1989."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.349989271163734,
+          52.51447991034036
+        ]
+      },
+      "properties": {
+        "name": "Loveparade",
+        "Music": "Elektronische Tanzmusik; Parade/Technodemo",
+        "Category": "Tiergarten",
+        "years": "1989 – 2003 (Berlin); 2006 (Berlin)",
+        "description": "Technoparade von Ku’damm (1989–1995) zur Straße des 17. Juni (ab 1996) rund um die Siegessäule; Millionenpublikum, prägend für die Berliner Technokultur.",
+        "address": "Straße des 17. Juni / Siegessäule, 10557 Berlin (Route variierte)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401343,
+          52.52775
+        ]
+      },
+      "properties": {
+        "name": "Cookies #2",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Mitte",
+        "years": "1996",
+        "description": "Cookies #2 — brief second home on Auguststraße 36.",
+        "address": "Auguststraße 36, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389786,
+          52.524312
+        ]
+      },
+      "properties": {
+        "name": "Cookies #3",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Mitte",
+        "years": "1997 – 1998",
+        "description": "Cookies #3 — moved to Johannisstraße 2 near Friedrichstraße.",
+        "address": "Johannisstraße 2, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.392588,
+          52.526132
+        ]
+      },
+      "properties": {
+        "name": "Cookies #4",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Mitte",
+        "years": "1998 – 1999",
+        "description": "Cookies #4 — at the old Postfuhramt / Auguststraße 5a.",
+        "address": "Auguststraße 5a (Postfuhramt), 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.415728,
+          52.528988
+        ]
+      },
+      "properties": {
+        "name": "Cookies #5",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Prenzlauer Berg",
+        "years": "1999 – 2000",
+        "description": "Cookies #5 — Backfabrik era on Saarbrücker Straße 36.",
+        "address": "Saarbrücker Straße 36, 10405 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.390331,
+          52.517986
+        ]
+      },
+      "properties": {
+        "name": "Cookies #6",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Mitte",
+        "years": "2000 – 2005",
+        "description": "Cookies #6 — long‑running Charlottenstraße 44 era.",
+        "address": "Charlottenstraße 44, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391182,
+          52.502539
+        ]
+      },
+      "properties": {
+        "name": "Cookies #7",
+        "Music": "House, disco, electro; eclectic after‑hours",
+        "Category": "Mitte",
+        "years": "2007 – 2014",
+        "description": "Cookies #7 — final incarnation on Friedrichstraße 158; closed July 2014.",
+        "address": "Friedrichstraße 158–164, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3327252,
+          52.5037993
+        ]
+      },
+      "properties": {
+        "name": "Loveparade #2",
+        "Music": "Elektronische Tanzmusik; Parade/Technodemo",
+        "Category": "Charlottenburg",
+        "years": "1989 – 1995 (Ku’damm/Wittenbergplatz)",
+        "description": "Frühe Loveparade‑Route am Kurfürstendamm/Wittenbergplatz, bevor der Umzug in den Tiergarten erfolgte.",
+        "address": "Kurfürstendamm / Wittenbergplatz, 10789 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387481814850247,
+          52.5105623283992
+        ]
+      },
+      "properties": {
+        "name": "WMF #2",
+        "address": "Burgstraße 28, 10178 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, Experimental",
+        "years": "ca. 1993–1996",
+        "description": "Frühe WMF‑Station nahe Hackescher Markt (Burgstraße 28); Kunst/Club‑Hybrid."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400548,
+          52.521936
+        ]
+      },
+      "properties": {
+        "name": "WMF #3",
+        "address": "Leipziger Straße 112, 10117 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, Experimental",
+        "years": "ca. frühe 1990er",
+        "description": "WMF‑Location in der Leipziger Straße (ehem. Wertheim‑Komplexnähe)."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38899,
+          52.524527
+        ]
+      },
+      "properties": {
+        "name": "WMF #4",
+        "address": "Johannisstraße 20, 10117 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, House",
+        "years": "1997–1999 (ca.)",
+        "description": "WMF‑Ära an der Johannisstraße; zweite Geburtstagsfeier im Dez. 1999 dokumentiert."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391821,
+          52.523541
+        ]
+      },
+      "properties": {
+        "name": "WMF #5",
+        "address": "Ziegelstraße 22, 10117 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, House",
+        "years": "ca. 1999–2001",
+        "description": "Kurzzeitige WMF‑Phase in der Ziegelstraße."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422841,
+          52.519615
+        ]
+      },
+      "properties": {
+        "name": "WMF #6",
+        "address": "Karl‑Marx‑Allee 34 (Café Moskau), 10178 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, House",
+        "years": "ca. 2000–2002",
+        "description": "WMF‑Location im Café Moskau an der Karl‑Marx‑Allee."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.414892,
+          52.515456
+        ]
+      },
+      "properties": {
+        "name": "WMF #7",
+        "address": "Klosterstraße 44, 10179 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, House",
+        "years": "2009–2010",
+        "description": "Späte WMF‑Reinkarnation in der Klosterstraße; 2010 geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411609,
+          52.518006
+        ]
+      },
+      "properties": {
+        "name": "WMF #8",
+        "address": "Littenstraße 109, 10179 Berlin",
+        "Category": "Mitte",
+        "Music": "Electronica, Techno, House",
+        "years": "ca. 2002–2004",
+        "description": "WMF‑Phase in der Littenstraße (Mitte) in den frühen 2000ern."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409937,
+          52.489043
+        ]
+      },
+      "properties": {
+        "name": "SchwuZ #2",
+        "address": "Mehringdamm 61, 10961 Berlin",
+        "Category": "Kreuzberg",
+        "Music": "Queer Pop, House/Disco, 80s/90s, Shows",
+        "years": "2007–2013",
+        "description": "SchwuZ‑Phase im Kreuzberger Gewölbekeller am Mehringdamm; große queere Partys und Liveshows bis zum Umzug 2013."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387186542329943,
+          52.490842532656615
+        ]
+      },
+      "properties": {
+        "name": "SchwuZ #3",
+        "address": "Rollbergstraße 26, 12053 Berlin (Kindl‑Brauerei)",
+        "Category": "Neukölln",
+        "Music": "Queer Pop, Techno/House, Live & Drag‑Shows",
+        "years": "2013–",
+        "description": "Heutiger Standort des SchwuZ in der ehemaligen Kindl‑Brauerei; mehrere Floors, große Queer‑Events; seit 2013."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451096,
+          52.513785
+        ]
+      },
+      "properties": {
+        "name": "K17 #2 / Nuke Club",
+        "Music": "Gothic/Metal; EBM/Industrial; 80s/Wave; Rock",
+        "Category": "Friedrichshain",
+        "years": "K17: 2005 – 2014; Nuke Club: 2016 – 2021",
+        "description": "Nachfolger des K17 in denselben Räumen; große Rock/Alternative‑Location mit mehreren Floors & Biergarten.",
+        "address": "Pettenkoferstraße 17a, 10247 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36125,
+          52.49125
+        ]
+      },
+      "properties": {
+        "name": "UFO #2",
+        "Music": "acid house, early techno",
+        "Category": "Schöneberg",
+        "years": "1989–1990",
+        "description": "Second incarnation in a former store building near Yorckstraße.",
+        "address": "Großgörschenstraße (near Yorckstraße), 10827 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353741,
+          52.496745
+        ]
+      },
+      "properties": {
+        "name": "Ur-Dschungel",
+        "address": "Winterfeldtplatz (Schöneberg), später Umzug an die Nürnberger Straße",
+        "Category": "Schöneberg",
+        "Music": "Disco, New Wave, Pop, Post‑Punk",
+        "years": "1970er (Winterfeldtplatz) → Ende 1970er Umzug",
+        "description": "Frühe Dschungel‑Phase am Winterfeldtplatz in Schöneberg; aufgrund des Andrangs Ende der 1970er Umzug in größere Räume an der Nürnberger Straße."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.303343728949784,
+          52.49890470760846
+        ]
+      },
+      "properties": {
+        "name": "Punkhouse",
+        "address": "Kurfürstendamm (am Lehniner Platz), 10709 Berlin",
+        "Category": "Charlottenburg",
+        "Music": "Punk (zuvor Funk, nach Umbenennung 1977)",
+        "years": "1977–1978",
+        "description": "Kleiner Club am Lehniner Platz: aus dem kurzlebigen ‚Funkhouse‘ wurde 1977 das Punkhouse – erster Treffpunkt der West‑Berliner Punkszene; nach einem Jahr geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424226,
+          52.499317
+        ]
+      },
+      "properties": {
+        "name": "Farbfernseher",
+        "Music": "House, disco, techno; intimate 'living‑room' club",
+        "Category": "Kreuzberg",
+        "years": "2009 – 2018",
+        "description": "Small neighborhood club on Skalitzer Straße; became a staple for house/leftfield disco; later succeeded by Bulbul at the same address.",
+        "address": "Skalitzer Straße 114, 10997 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429708,
+          52.509697
+        ]
+      },
+      "properties": {
+        "name": "Magdalena",
+        "Music": "Techno/House; Großraum‑Soundsystem",
+        "Category": "Mitte",
+        "years": "2012 – 2017",
+        "description": "Nachfolgerin der Maria am Ostbahnhof; zuerst Michaelkirchstraße 20 (ehem. Kraftwerk), später Alt‑Stralau 1.",
+        "address": "Michaelkirchstraße 20, 10179 Berlin; später Alt‑Stralau 1, 10245 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.372274,
+          52.543991
+        ]
+      },
+      "properties": {
+        "name": "Stattbad Wedding",
+        "address": "Gerichtstraße 65, 13347 Berlin",
+        "Category": "Wedding",
+        "Music": "Techno, House, Bass; Kunst/Club im ehemaligen Stadtbad",
+        "years": "2009–2015",
+        "description": "Kunst‑ und Clubhaus im stillgelegten Stadtbad; internationale Clubnächte, Installationen und Festivals bis zur Schließung 2015."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.462418,
+          52.505153
+        ]
+      },
+      "properties": {
+        "name": "Rosi´s",
+        "address": "Revaler Straße 29, 10245 Berlin",
+        "Category": "Friedrichshain",
+        "Music": "Indie, Electro, Alternative; Garten‑/Hofdances",
+        "years": "2003–2018",
+        "description": "Lässiger Friedrichshainer Hof‑Club mit Indie/Electro‑Programm, Konzerten und Sommergarten; 2018 geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.476035,
+          52.507525
+        ]
+      },
+      "properties": {
+        "name": "Subland",
+        "address": "Herzbergstraße 123, 10365 Berlin",
+        "Category": "Lichtenberg",
+        "Music": "Hardcore Techno, Drum’n’Bass; Warehouse‑Events",
+        "years": "2010–2014",
+        "description": "Berliner Warehouse‑Club für härtere elektronische Stile; 2014 behördlich geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.461328,
+          52.506352
+        ]
+      },
+      "properties": {
+        "name": "Morlox",
+        "Music": "Industrial/Goth; EBM; Darkwave",
+        "Category": "Friedrichshain",
+        "years": "– 2014",
+        "description": "Dunkler Underground‑Club in Friedrichshain; Szene‑Nights & Konzerte.",
+        "address": "Haasestraße 13, 10245 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449375,
+          52.497169
+        ]
+      },
+      "properties": {
+        "name": "Chalet",
+        "Music": "House, techno",
+        "Category": "Kreuzberg",
+        "years": "2012 – 2019",
+        "description": "Wood‑paneled villa‑style club by the canal near Schlesisches Tor; connected to the Bar25/Kater circle; closed in 2019.",
+        "address": "Vor dem Schlesischen Tor 3, 10997 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47569,
+          52.507802
+        ]
+      },
+      "properties": {
+        "name": "Kosmonaut / Polygon",
+        "Music": "Techno/House; Multi‑Floor‑Club",
+        "Category": "Lichtenberg",
+        "years": "Kosmonaut: 2013 – 2016; Polygon: seit 2016 – heute",
+        "description": "Ehemals Kosmonaut, als Polygon weitergeführt; Warehouse‑Club am Wiesenweg.",
+        "address": "Wiesenweg 1–4, 10365 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427692,
+          52.531988
+        ]
+      },
+      "properties": {
+        "name": "Magnet ",
+        "address": "Falckensteinstraße 48, 10997 Berlin",
+        "Category": "Kreuzberg",
+        "Music": "Indie, Rock, Alternative; Live-Konzerte & Clubnächte",
+        "years": "2001–2015",
+        "description": "Indie/Rock-Club. Zunächst in der Greifswalder Straße (Prenzlauer Berg), ab 2010 an der Oberbaumbrücke/Falckensteinstraße in Kreuzberg; 2015 geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444894,
+          52.500854
+        ]
+      },
+      "properties": {
+        "name": "Magnet #2",
+        "Music": "Indie/Rock; Alternative; Live‑Konzerte & Clubnights",
+        "Category": "Kreuzberg",
+        "years": "2010 – 2015",
+        "description": "Zweiter Standort nach dem Umzug; später von Musik & Frieden abgelöst.",
+        "address": "Falckensteinstraße 48, 10997 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460124,
+          52.510131
+        ]
+      },
+      "properties": {
+        "name": "Stereo33",
+        "address": "Krossener Straße 24, 10245 Berlin",
+        "Category": "Friedrichshain",
+        "Music": "House, Electro; Bar‑/Clubnächte",
+        "years": "ca. 2008–2018",
+        "description": "Bar/Club am Boxhagener Platz; elektronische Sets und House‑Nächte; in den späten 2010ern geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.424219,
+          52.521578
+        ]
+      },
+      "properties": {
+        "name": "Naherholung Sternchen",
+        "address": "Berolinastraße 7, 10178 Berlin (hinter Kino International)",
+        "Category": "Mitte",
+        "Music": "House, Electro, Jazz, Tech‑House; außerdem Konzerte, Lesungen, Film- & Theaterabende",
+        "years": "2009–2014",
+        "description": "Kultur- und Clubraum in Rathaus‑Mitte mit zwei Floors; Mix aus Clubnächten, Konzerten, Lesungen und Filmabenden. Bestand bis Ende April 2014."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.460292,
+          52.506171
+        ]
+      },
+      "properties": {
+        "name": "Wysiwyg / R19",
+        "address": "Revaler Straße 19, 10245 Berlin",
+        "Category": "Friedrichshain",
+        "Music": "House, Techno; Underground & Visuals",
+        "years": "2011–2016",
+        "description": "‚What You See Is What You Get‘ (WYSIWYG) / R19 auf dem RAW‑Gelände; Underground‑Club mit House/Techno‑Nächsten; am 1. 8. 2016 geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451806,
+          52.508153
+        ]
+      },
+      "properties": {
+        "name": "M.I.K.Z. / Spirograph",
+        "Music": "Techno/House; Queer/Fetish‑Off‑Nights",
+        "Category": "Friedrichshain",
+        "years": "ca. 2008 – 2014",
+        "description": "RAW‑Gelände‑Club (Multi Instanz Kollektiv Zentrum); berüchtigte Wochenend‑Raves und Spirograph‑Nächte.",
+        "address": "Revaler Straße 99, 10245 Berlin (RAW)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410098,
+          52.528851
+        ]
+      },
+      "properties": {
+        "name": "Franz",
+        "Music": "Indie/Rock & Pop; Swing; Konzerte & Partys",
+        "Category": "Prenzlauer Berg",
+        "years": "1990 – 2004; seit 2004 (als FRANNZ) – heute",
+        "description": "Hausklub der Kulturbrauerei: Live‑Konzerte, Indie‑/Rock‑Partys, Swing‑Abende; später als FRANNZ fortgeführt.",
+        "address": "Schönhauser Allee 36, 10435 Berlin (Kulturbrauerei)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412531,
+          52.540417
+        ]
+      },
+      "properties": {
+        "name": "Schoppenstube",
+        "address": "Schönhauser Allee 44, 10435 Berlin",
+        "Category": "Prenzlauer Berg",
+        "Music": "Schlager, Oldies, Chanson; Kiez‑Kneipe mit Tanz",
+        "years": "1963–2013",
+        "description": "Traditionskneipe/Bar mit Tanz in Prenzlauer Berg; über 50 Jahre Nachbarschafts‑Treff."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411848,
+          52.512303
+        ]
+      },
+      "properties": {
+        "name": "Tanzschule Schmidt",
+        "address": "Rosenthaler Straße 38, 10119 Berlin",
+        "Category": "Mitte",
+        "Music": "Hip‑Hop, Urban; Jugend‑ & Szenepartys",
+        "years": "1996–1998",
+        "description": "Veranstaltungsraum/‚Tanzschule‘ über der Galerie Berlin‑Tokyo am Hackeschen Markt; Hip‑Hop‑Partys, 1998 nach Auflagen/Schließung beendet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402743,
+          52.524279
+        ]
+      },
+      "properties": {
+        "name": "Tanzschule Schmidt II",
+        "address": "Inselstraße 9a, 10179 Berlin",
+        "Category": "Mitte",
+        "Music": "Hip‑Hop, Urban; Jugend‑ & Szenepartys",
+        "years": "1993–1996",
+        "description": "Erste Phase/Standort der ‚Tanzschule Schmidt‘ in Mitte (Inselstraße 9a), vor dem Umzug 1996 in die Rosenthaler Straße 38."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410535,
+          52.545928
+        ]
+      },
+      "properties": {
+        "name": "Icon",
+        "Music": "Drum’n’Bass; Indie; Electro",
+        "Category": "Prenzlauer Berg",
+        "years": "1996 – 2011",
+        "description": "Legendärer Kellerclub nahe Mauerpark; DnB‑Residencies, Indie/Electro‑Nights und Konzerte.",
+        "address": "Cantianstraße 15, 10437 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.416838992497304,
+          52.50211947970848
+        ]
+      },
+      "properties": {
+        "name": "Trash",
+        "address": "Oranienstraße 40–41, 10999 Berlin",
+        "Category": "Kreuzberg",
+        "Music": "Rock, Punk/Hard & Alternative; zwei Floors",
+        "years": "1982–2001",
+        "description": "Kreuzberger Szene‑Club in einem Ex‑Kaufhaus an der Oranienstraße; bekannt für harte Gitarren & Subkultur. Anfang 2001 geschlossen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396975,
+          52.530835
+        ]
+      },
+      "properties": {
+        "name": "Ackerkeller",
+        "Music": "Queer bar with DJ nights: pop, indie, alternative",
+        "Category": "Mitte",
+        "years": "1992 – 2010",
+        "description": "Legendary gay/queer hangout that started in Ackerstraße and later moved to Bergstraße 68; mixed-pop/indie DJ bar vibe; closed in 2010.",
+        "address": "Bergstraße 68, 10115 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.394191,
+          52.531548
+        ]
+      },
+      "properties": {
+        "name": "Ackerkeller #2",
+        "Music": "Queere Bar-Nights; Indie/Alternative; DJ-Kultur",
+        "Category": "Mitte",
+        "years": "1992 – 2010",
+        "description": "Musikrichtungen & Subkulturen: Konzerte, experimentelle Musik, freie Kunstszene; Kiez‑Wohnzimmer der frühen Mitte‑Szene (zweiter Standort nach Umzug von der Ackerstraße).",
+        "address": "Bergstraße 68, 10115 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40258276288273,
+          52.52791810618305
+        ]
+      },
+      "properties": {
+        "name": "Delicious Doughnuts",
+        "Music": "Jazz roots; later eclectic: funk, breaks, trip‑hop, house",
+        "Category": "Mitte",
+        "years": "1993 – 2012",
+        "description": "Mitte institution that started as a jazz club; hosted genre‑spanning DJ sets; last party on 17 August 2012.",
+        "address": "Rosenthaler Straße, 10119 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.422914001600219,
+          52.51320598756371
+        ]
+      },
+      "properties": {
+        "name": "Hangar49",
+        "Music": "Live (Jazz/Balkan/Reggae u. a.) & Club (DnB/Techno)",
+        "Category": "Mitte",
+        "years": "2009 – heute",
+        "description": "Kleiner Bogen‑Club mit Live‑Bühne & Clubnächten direkt an der Spree unter der S‑Bahn am Jannowitzbrücke‑Viadukt.",
+        "address": "Holzmarktstraße 15–18, S‑Bahnbogen 49, 10179 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.413195,
+          52.526525
+        ]
+      },
+      "properties": {
+        "name": "Grüner Salon",
+        "Music": "Konzerte; Chanson; Indie/Elektronika; Clubnächte",
+        "Category": "Mitte",
+        "years": "1993 – heute",
+        "description": "Salon der Volksbühne am Rosa‑Luxemburg‑Platz; Bühne für Konzerte, Lesungen und Clubformate.",
+        "address": "Rosa‑Luxemburg‑Platz 2, 10178 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388331,
+          52.521384
+        ]
+      },
+      "properties": {
+        "name": "103",
+        "Music": "Techno, house, electro (post‑techno/art-scene leanings)",
+        "Category": "Mitte",
+        "years": "1997 – 2008",
+        "description": "Mitte-era '103' operated along Monbijoustraße in the late ’90s/2000s after an earlier phase linked to Friedrichstraße 103; known for techno/house/electro nights; closed in 2008.",
+        "address": "Monbijoustraße, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.444708,
+          52.500672
+        ]
+      },
+      "properties": {
+        "name": "103 #2",
+        "Music": "Techno, house, electro",
+        "Category": "Kreuzberg",
+        "years": "2007 – 2008",
+        "description": "Short‑lived Kreuzberg phase of '103' after moving from Mitte; events at Falckensteinstraße 47 until September 2008.",
+        "address": "Falckensteinstraße 47, 10997 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.388465368792282,
+          52.5089184753343
+        ]
+      },
+      "properties": {
+        "name": "Elektro",
+        "Music": "Minimal techno, experimental; art–club crossover",
+        "Category": "Mitte",
+        "years": "1992 – 1995",
+        "description": "Legendary micro‑club founded by Daniel Pflumm with Kotai & Mo; nexus of art and minimal techno; located at Mauerstraße 15 and demolished mid‑1990s.",
+        "address": "Mauerstraße 15, 10117 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.38989432905484,
+          52.53185350756388
+        ]
+      },
+      "properties": {
+        "name": "Panasonic",
+        "address": "Invalidenstraße (am Nordbahnhof), 10115 Berlin",
+        "Category": "Mitte",
+        "Music": "Experimentelle Elektronik, Minimal, Kunst‑/Club‑Hybride",
+        "years": "1995–1997",
+        "description": "Künstler‑Clubprojekt um Daniel Pflumm an der Invalidenstraße; radikale Minimal‑Ästhetik, Video‑Arbeiten und experimentelle Clubnächte; Mitte der 1990er aktiv."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353642,
+          52.4851
+        ]
+      },
+      "properties": {
+        "name": "Ecstasy",
+        "Music": "Rock, punk, alternative; concerts",
+        "Category": "Schöneberg",
+        "years": "late 1980s – 1992",
+        "description": "Club in the former 'International' space on Hauptstraße; bookings ranged from underground US punk like Dead Moon to local alternative acts.",
+        "address": "Hauptstraße 30, 10827 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433474,
+          52.479401
+        ]
+      },
+      "properties": {
+        "name": "Cube Club",
+        "Music": "House, electro, techno, minimal",
+        "Category": "Neukölln",
+        "years": "2012 – 2013",
+        "description": "Short‑lived club in the vaulted cellars of the former Kindl brewery; opened in March 2012, closed soon after; the site later became Palast Neukölln.",
+        "address": "Rollbergstraße 26, 12053 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.400265,
+          52.530605
+        ]
+      },
+      "properties": {
+        "name": "Glowing Pickle",
+        "Music": "Avantgarde/Experimental; frühe Elektronik",
+        "Category": "Mitte",
+        "years": "1991 – 1993",
+        "description": "Kurzlebiger Underground‑Ort der frühen 90er mit Sound‑Art und experimentellen Konzerten.",
+        "address": "Mitte (genaue Adresse unbekannt)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.442848025705985,
+          52.50224215393334
+        ]
+      },
+      "properties": {
+        "name": "MS Sansouci",
+        "Music": "Schiffspartys: 80/90er, Depeche Mode u. a.; Charterfahrten",
+        "Category": "Treptow",
+        "years": "seit 2000 – heute",
+        "description": "Event‑/Kreuzfahrtschiff auf Spree & Havel; regelmäßig Partytouren ab Hafen Treptow.",
+        "address": "Hafen Treptow, Puschkinallee 15, 12435 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389016,
+          52.526094
+        ]
+      },
+      "properties": {
+        "name": "Obst & Gemüse",
+        "address": "Weserstraße 56, 12045 Berlin",
+        "Category": "Neukölln",
+        "Music": "Indie, Electro‑Pop, Hip‑Hop; Bar‑/Clubnächte",
+        "description": "Kiez‑Bar/Club an der Weserstraße; Partys zwischen Indie, Electro‑Pop und Hip‑Hop, frühe bis mittlere 2010er.",
+        "years": "ca. 2010–2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.352075,
+          52.487402
+        ]
+      },
+      "properties": {
+        "name": "Pinguin Club",
+        "address": "Wartburgstraße 54, 10823 Berlin",
+        "Category": "Schöneberg",
+        "Music": "Rock’n’Roll & Indie vom Jukebox‑Keller bis zu Live‑Gigs",
+        "years": "1984–2019",
+        "description": "Kultige Kiezkneipe mit Club‑Charakter in Schöneberg; Jukebox, Konzerte und Subkultur‑Treffpunkt über Jahrzehnte."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410646,
+          52.529877
+        ]
+      },
+      "properties": {
+        "name": "Neue Berliner Initative (NBI)",
+        "address": "Schönhauser Allee 36, 10435 Berlin (Kulturbrauerei)",
+        "Category": "Prenzlauer Berg",
+        "Music": "Indie, Singer‑Songwriter, Avantgarde; Lesungen & Off‑Kultur",
+        "years": "1992–2013",
+        "description": "Die ‚Neue Berliner Initiative‘ (NBI) war ein Szene‑Ort in der Kulturbrauerei für Konzerte, Lesungen und Indie/Avantgarde‑Nächte; später mehrfach umgezogen; 2013 eingestellt."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.412562,
+          52.54599
+        ]
+      },
+      "properties": {
+        "name": "Neue Berliner Initiative (NBI) #2",
+        "address": "Schönhauser Allee 36 (Kulturbrauerei), 10435 Berlin",
+        "Category": "Prenzlauer Berg",
+        "Music": "Indie, Electronica/Avantgarde, Singer‑Songwriter; Lesungen & Off‑Kultur",
+        "years": "ca. 1998–2005",
+        "description": "Frühe NBI‑Phase auf dem Gelände der Kulturbrauerei (Schönhauser Allee 36). Wohnzimmer‑Club mit Indie‑/Elektronik‑Konzerten und Lesungen; Ende 1990er gegründet, bis Mitte der 2000er hier aktiv."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.401094,
+          52.535662
+        ]
+      },
+      "properties": {
+        "name": "Neue Berliner Initiative (NBI) #3",
+        "address": "Zionskirchstraße 5, 10119 Berlin",
+        "Category": "Mitte",
+        "Music": "Indie, Electronica, Off‑Kultur; Bar‑ & Konzertabende",
+        "years": "ca. 2008–2013",
+        "description": "Spätere NBI‑Bar am Zionskirchplatz; kleiner Veranstaltungsraum/Bar mit Konzerten & Indie‑Nächten; späte 2000er bis frühe 2010er aktiv."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.36489768758392,
+          52.53414679279095
+        ]
+      },
+      "properties": {
+        "name": "Tape Club",
+        "address": "Heidestraße 14, 10557 Berlin",
+        "Category": "Moabit",
+        "Music": "Electro, Indie, Nu‑Rave; Live‑ & Clubnächte",
+        "description": "Club am Hamburger Bahnhof/Heidestraße in ehemaligem Güterschuppen; 2012 geschlossen.",
+        "years": "2007–2012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421329,
+          52.514138
+        ]
+      },
+      "properties": {
+        "name": "Hirschbar",
+        "Music": "Indie/Alternative; Mixed DJ‑Nights",
+        "Category": "Mitte",
+        "years": "1993 – 1999",
+        "description": "Kult‑Bar/Club der 90er an der Jannowitzbrücke; Wohnzimmer der Szene mit Konzerten & DJ‑Abenden.",
+        "address": "Jannowitzbrücke, 10179 Berlin (genaue Anschrift unsicher)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.406619,
+          52.523585
+        ]
+      },
+      "properties": {
+        "name": "Suicide Club",
+        "address": "Revaler Straße 99 (Eingang Warschauer Straße), 10245 Berlin",
+        "Category": "Friedrichshain",
+        "Music": "Techno & House; Indoor/Outdoor (RAW‑Gelände)",
+        "years": "1994–",
+        "description": "Seit den 1990ern als ‚Suicide Club/Circus‘ bekannt, seit 2024 als ‚Lokschuppen Berlin‘; fester Bestandteil der RAW‑Szene mit Open‑Air‑Bereich."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.443545773921329,
+          52.52486347000911
+        ]
+      },
+      "properties": {
+        "name": "Club Villa",
+        "Music": "House, techno, minimal, tech‑house",
+        "Category": "Friedrichshain",
+        "years": "mid‑2000s – 2011",
+        "description": "Popular late‑2000s Friedrichshain venue in a former villa on Landsberger Allee; permanently closed January 2011.",
+        "address": "Landsberger Allee 54, 10249 Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500916,
+          52.480607
+        ]
+      },
+      "properties": {
+        "name": "Rechenzentrum",
+        "address": "Nalepastraße 10–16, 12459 Berlin",
+        "Category": "Oberschöneweide",
+        "Music": "Techno, Minimal; Open‑Air/Indoor am Spreeufer (Funkpark‑Gelände)",
+        "years": "2008–2009",
+        "description": "Kurzlebiger Club im Funkpark‑Areal an der Spree; elektronische Nächte in Industrie‑Kulisse."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359134,
+          52.503441
+        ]
+      },
+      "properties": {
+        "name": "Sound",
+        "address": "Genthiner Straße 26, 10785 Berlin",
+        "Category": "Tiergarten",
+        "Music": "Progressive Rock, Experimentelles; frühe Disco‑/Video‑Technik",
+        "description": "Legendäre West‑Berliner Diskothek (S.O.U.N.D.) in einer umgebauten Tiefgarage; als „modernste Diskothek Europas“ bekannt. Spätere, unabhängige Neuaufgüsse an anderen Adressen (2001–2007).",
+        "years": "1972–1988 (Hauptphase)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.457249260396623,
+          52.50439851571181
+        ]
+      },
+      "properties": {
+        "name": "loc. Stellwerk",
+        "address": "Kranoldplatz 5, 12051 Berlin",
+        "Category": "Neukölln",
+        "Music": "Mixed: Indie, Electro, Live‑Acts; Kiez‑Location",
+        "years": "ca. 2010er",
+        "description": "Kleine Kiez‑Location/‚Stellwerk‘ in Neukölln; Bar‑/Clubabende und Konzerte."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.411733322846686,
+          52.531524800738595
+        ]
+      },
+      "properties": {
+        "name": "Subground Pfefferberg",
+        "address": "Schönhauser Allee 176 (Pfefferberg‑Areal), 10119 Berlin",
+        "Category": "Prenzlauer Berg",
+        "Music": "Techno, Tech‑House; Keller‑/Subclub",
+        "description": "Untergrund‑Kellerclub im Pfefferberg‑Komplex; roher Techno‑/House‑Sound und Afterhours.",
+        "years": "ca. späte 1990er–frühe 2000er"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.402213139573064,
+          52.52226012271905
+        ]
+      },
+      "properties": {
+        "name": "Das K.",
+        "address": "Burgstraße 31, 10178 Berlin",
+        "Category": "Mitte",
+        "Music": "Konzerte, experimentelle Musik, freie Kunstszene; Off-Space-Events (concerts, experimental, art/DIY)",
+        "years": "1996–1997",
+        "description": "Kurzlebiger Off-Space („K.“/Kulturbaracke) in einem Barackenbau an der Burgstraße nahe Hackescher Markt. Programm zwischen Konzerten, experimenteller Musik und freier Kunstszene; aktiv 1996–1997."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.386898455267584,
+          52.5264315518163
+        ]
+      },
+      "properties": {
+        "name": "Die Gurke",
+        "Music": "Konzerte; experimentelle Musik; freie Kunstszene",
+        "Category": "Mitte",
+        "years": "1990 – 1991",
+        "description": "Frühe Nachwende‑Off‑Location in der Friedrichstraße; improvisierte Konzerte, experimentelle Performances und freie Kunstszene.",
+        "address": "Friedrichstraße 112b, 10117 Berlin"
+      }
+    }
+  ]
+}
